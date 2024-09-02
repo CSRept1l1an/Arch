@@ -11,8 +11,12 @@
             "id": "605b2fd3b6df60a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Preboot/Preboot.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Preboot/Preboot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Preboot/Preboot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "1. Preboot/Preboot.md"
+              }
+            }
+          },
+          {
+            "id": "453236b8cb7e6e6a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,19 +151,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "605b2fd3b6df60a4",
+  "active": "feb63db609885560",
   "lastOpenFiles": [
-    "Preboot/Preboot.md",
+    "0. Personal/Noctarch",
+    "0. Personal",
+    "1. Preboot/Preboot.md",
     "2024-09-02.md",
     "Untitled.canvas",
     "Desktop Environments/Hyprland/Hyprland.md",
-    "Postboot",
-    "Preboot",
+    "2. Postboot",
+    "1. Preboot",
     "Desktop Environments/Hyprland",
-    "Postboot/Postboot.md",
+    "2. Postboot/Postboot.md",
     "Desktop Environments",
     "Welcome.md"
   ]
