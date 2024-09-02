@@ -1,0 +1,22 @@
+# Ignore Obsidian workspace and configuration files
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/appearance.json
+
+# Ignore Obsidian cache files
+.obsidian/cache
+.obsidian/.cache
+
+# Ignore Obsidian plugins and settings (optional)
+# Uncomment if you don't want to version control them
+# .obsidian/plugins/
+# .obsidian/snippets/
+
+# Ignore backup files
+*.bak
+*.swp
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
