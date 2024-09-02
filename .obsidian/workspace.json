@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "08b5b1c2eb3ec36e",
+        "id": "9524b5674d3c87f0",
         "type": "tabs",
         "children": [
           {
-            "id": "3831213b4255a1ad",
+            "id": "605b2fd3b6df60a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preboot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c617d96c4222bfb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preboot.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preboot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preboot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Preboot.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,10 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3831213b4255a1ad",
+  "active": "605b2fd3b6df60a4",
   "lastOpenFiles": [
-    "Postboot.md",
-    "Preboot.md",
+    "Preboot/Preboot.md",
+    "2024-09-02.md",
+    "Untitled.canvas",
+    "Desktop Environments/Hyprland/Hyprland.md",
+    "Postboot",
+    "Preboot",
+    "Desktop Environments/Hyprland",
+    "Postboot/Postboot.md",
+    "Desktop Environments",
     "Welcome.md"
   ]
 }
