@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "90ed9c8e2e46a3d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b5b1c2eb3ec36e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3831213b4255a1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preboot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c617d96c4222bfb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preboot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8433520ccc01e4c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "70e0fd4234ec316f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feb63db609885560",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9a78be588564187",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9c6e8c1ce73aaec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4306aab1dca8e46",
+    "type": "split",
+    "children": [
+      {
+        "id": "20a50b090d2944ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a949740d80eac1f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Preboot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b58705ac23fa3f89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Preboot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf6d75bf47c06b82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b31ca28cbd4e9430",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Preboot.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3831213b4255a1ad",
+  "lastOpenFiles": [
+    "Postboot.md",
+    "Preboot.md",
+    "Welcome.md"
+  ]
+}
