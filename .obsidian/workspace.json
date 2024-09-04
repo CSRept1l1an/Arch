@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- Preboot/Preboot.md",
+                "file": "Terminal/Zsh.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e4306aab1dca8e46",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- Preboot/Preboot.md",
+                "file": "Terminal/Zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- Preboot/Preboot.md",
+                "file": "Terminal/Zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- Preboot/Preboot.md"
+                "file": "Terminal/Zsh.md"
               }
             }
           },
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +157,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "feb63db609885560",
+  "active": "9d809e5b627cf0c7",
   "lastOpenFiles": [
+    "- Preboot/Preboot.md",
     "Terminal/Starship.md",
     "Terminal/Alacritty.md",
     "Neovim.md",
@@ -165,7 +168,6 @@
     "starship.toml.md",
     "starship.toml",
     "Terminal/Zsh.md",
-    "- Preboot/Preboot.md",
     "- Personal/Noctarch",
     "- Personal",
     "2024-09-02.md",
