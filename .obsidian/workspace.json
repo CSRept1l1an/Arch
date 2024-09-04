@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Zsh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d809e5b627cf0c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "requirements.txt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "requirements.txt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "requirements.txt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "requirements.txt.md"
               }
             }
           },
@@ -192,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b124353e44ad820",
+  "active": "9d809e5b627cf0c7",
   "lastOpenFiles": [
+    "Zsh.md",
+    "requirements.txt.md",
     "Starship.md",
-    "Untitled.md",
     "Neovim.md",
     "1. Preboot/Preboot.md",
     "0. Personal/Noctarch",
