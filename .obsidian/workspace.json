@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dcb80b60a982e885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "starship.toml.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "starship.toml.md",
+                "file": "Starship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "starship.toml.md",
+                "file": "Starship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "starship.toml.md"
+                "file": "Starship.md"
               }
             }
           },
@@ -155,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +155,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcb80b60a982e885",
+  "active": "feb63db609885560",
   "lastOpenFiles": [
-    "Starship.md",
     "starship.toml.md",
+    "starship.toml",
+    "Starship.md",
     "Zsh.md",
     "requirements.txt.md",
     "Neovim.md",
