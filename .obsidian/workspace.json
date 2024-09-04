@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "starship.sh.md",
+                "file": "starship.toml.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "starship.sh.md",
+                "file": "starship.toml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "starship.sh.md",
+                "file": "starship.toml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "starship.sh.md"
+                "file": "starship.toml.md"
               }
             }
           },
@@ -172,7 +172,7 @@
   "active": "dcb80b60a982e885",
   "lastOpenFiles": [
     "Starship.md",
-    "starship.sh.md",
+    "starship.toml.md",
     "Zsh.md",
     "requirements.txt.md",
     "Neovim.md",
