@@ -45,4 +45,5 @@ success_symbol = '[➜](bold green)' # The 'success_symbol' segment is being set
 [package]
 disabled = true
 ```
-
+## Documentation
+[Starship](https://starship.rs/config/)
