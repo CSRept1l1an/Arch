@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/Alacritty.md",
+                "file": "- Preboot/Preboot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal/Alacritty.md",
+                "file": "- Preboot/Preboot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal/Alacritty.md",
+                "file": "- Preboot/Preboot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal/Alacritty.md"
+                "file": "- Preboot/Preboot.md"
               }
             }
           },
@@ -155,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d809e5b627cf0c7",
+  "active": "feb63db609885560",
   "lastOpenFiles": [
     "Terminal/Starship.md",
     "Terminal/Alacritty.md",
@@ -165,16 +165,16 @@
     "starship.toml.md",
     "starship.toml",
     "Terminal/Zsh.md",
-    "1. Preboot/Preboot.md",
-    "0. Personal/Noctarch",
-    "0. Personal",
+    "- Preboot/Preboot.md",
+    "- Personal/Noctarch",
+    "- Personal",
     "2024-09-02.md",
     "Untitled.canvas",
     "Desktop Environment/Hyprland/Hyprland.md",
-    "2. Postboot",
-    "1. Preboot",
+    "- Postboot",
+    "- Preboot",
     "Desktop Environment/Hyprland",
-    "2. Postboot/Postboot.md",
+    "- Postboot/Postboot.md",
     "Desktop Environment",
     "Welcome.md"
   ]
