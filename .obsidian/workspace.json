@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "requirements.txt.md",
+                "file": "Starship.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "requirements.txt.md",
+                "file": "Starship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "requirements.txt.md",
+                "file": "Starship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "requirements.txt.md"
+                "file": "Starship.md"
               }
             }
           },
@@ -206,8 +206,8 @@
   },
   "active": "9d809e5b627cf0c7",
   "lastOpenFiles": [
-    "Zsh.md",
     "requirements.txt.md",
+    "Zsh.md",
     "Starship.md",
     "Neovim.md",
     "1. Preboot/Preboot.md",
