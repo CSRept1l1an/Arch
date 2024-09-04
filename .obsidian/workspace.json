@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b124353e44ad820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starship.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starship.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starship.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -180,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2cf0d6f2e1b66e6",
+  "active": "9b124353e44ad820",
   "lastOpenFiles": [
-    "Neovim.md",
     "Starship.md",
+    "Untitled.md",
+    "Neovim.md",
     "1. Preboot/Preboot.md",
     "0. Personal/Noctarch",
     "0. Personal",
