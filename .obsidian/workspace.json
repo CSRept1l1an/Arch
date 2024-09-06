@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/Zsh.md",
+                "file": "Terminal/Alacritty.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal/Zsh.md",
+                "file": "Terminal/Alacritty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal/Zsh.md",
+                "file": "Terminal/Alacritty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal/Zsh.md"
+                "file": "Terminal/Alacritty.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "9d809e5b627cf0c7",
   "lastOpenFiles": [
-    "- Preboot/Preboot.md",
     "Terminal/Starship.md",
+    "Terminal/Zsh.md",
+    "- Preboot/Preboot.md",
     "Terminal/Alacritty.md",
     "Neovim.md",
     "requirements.txt.md",
     "Terminal",
     "starship.toml.md",
     "starship.toml",
-    "Terminal/Zsh.md",
     "- Personal/Noctarch",
     "- Personal",
     "2024-09-02.md",
