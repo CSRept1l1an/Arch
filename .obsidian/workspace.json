@@ -156,12 +156,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d809e5b627cf0c7",
+  "active": "feb63db609885560",
   "lastOpenFiles": [
-    "Terminal/Starship.md",
+    "dotfiles/Untitled",
+    "dotfiles",
     "Terminal/Zsh.md",
-    "- Preboot/Preboot.md",
     "Terminal/Alacritty.md",
+    "Terminal/Starship.md",
+    "- Preboot/Preboot.md",
     "Neovim.md",
     "requirements.txt.md",
     "Terminal",
