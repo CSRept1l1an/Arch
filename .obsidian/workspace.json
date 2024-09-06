@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aaa69d377d9ed61e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "requirements.txt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal/Alacritty.md",
+                "file": "requirements.txt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal/Alacritty.md",
+                "file": "requirements.txt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal/Alacritty.md"
+                "file": "requirements.txt.md"
               }
             }
           },
@@ -158,10 +171,11 @@
   },
   "active": "feb63db609885560",
   "lastOpenFiles": [
+    "QTile.md",
+    "Terminal/Alacritty.md",
     "dotfiles/Untitled",
     "dotfiles",
     "Terminal/Zsh.md",
-    "Terminal/Alacritty.md",
     "Terminal/Starship.md",
     "- Preboot/Preboot.md",
     "Neovim.md",
