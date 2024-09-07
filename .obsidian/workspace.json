@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "requirements.txt.md",
+                "file": "Neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "requirements.txt.md",
+                "file": "Neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "requirements.txt.md",
+                "file": "Neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "requirements.txt.md"
+                "file": "Neovim.md"
               }
             }
           },
@@ -169,10 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "feb63db609885560",
+  "active": "aaa69d377d9ed61e",
   "lastOpenFiles": [
-    "QTile.md",
     "Terminal/Alacritty.md",
+    "QTile.md",
     "dotfiles/Untitled",
     "dotfiles",
     "Terminal/Zsh.md",
