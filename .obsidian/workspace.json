@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim.md",
+                "file": "Qtile/Stack/Qtile.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim.md",
+                "file": "Qtile/Stack/Qtile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim.md",
+                "file": "Qtile/Stack/Qtile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim.md"
+                "file": "Qtile/Stack/Qtile.md"
               }
             }
           },
@@ -183,8 +183,11 @@
   },
   "active": "224f059a5545571f",
   "lastOpenFiles": [
-    "Neovim.md",
     "Vim.md",
+    "Qtile/Stack/Qtile.md",
+    "Qtile/Stack",
+    "Qtile",
+    "Neovim.md",
     "Terminal/Alacritty.md",
     "QTile.md",
     "dotfiles/Untitled",
@@ -203,9 +206,7 @@
     "Desktop Environment/Hyprland/Hyprland.md",
     "- Postboot",
     "- Preboot",
-    "Desktop Environment/Hyprland",
     "- Postboot/Postboot.md",
-    "Desktop Environment",
     "Welcome.md"
   ]
 }
