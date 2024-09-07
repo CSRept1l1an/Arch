@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "224f059a5545571f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neovim.md",
+                "file": "Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neovim.md",
+                "file": "Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neovim.md"
+                "file": "Vim.md"
               }
             }
           },
@@ -169,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaa69d377d9ed61e",
+  "active": "224f059a5545571f",
   "lastOpenFiles": [
+    "Neovim.md",
+    "Vim.md",
     "Terminal/Alacritty.md",
     "QTile.md",
     "dotfiles/Untitled",
@@ -178,7 +192,6 @@
     "Terminal/Zsh.md",
     "Terminal/Starship.md",
     "- Preboot/Preboot.md",
-    "Neovim.md",
     "requirements.txt.md",
     "Terminal",
     "starship.toml.md",
