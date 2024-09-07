@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qtile/Stack/Qtile.md",
+                "file": "Terminal/Alacritty.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qtile/Stack/Qtile.md",
+                "file": "Terminal/Alacritty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qtile/Stack/Qtile.md",
+                "file": "Terminal/Alacritty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qtile/Stack/Qtile.md"
+                "file": "Terminal/Alacritty.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "224f059a5545571f",
   "lastOpenFiles": [
-    "Vim.md",
     "Qtile/Stack/Qtile.md",
+    "Vim.md",
     "Qtile/Stack",
     "Qtile",
     "Neovim.md",
