@@ -1,2 +1,2 @@
-require("lizard.remap")
-print("hello")
+require ('config.lazy')
+require 'options'
