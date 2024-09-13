@@ -32,7 +32,7 @@ endif
 
 set termguicolors
 colorscheme slate
-" sorbet, zaibatsu
+" sorbet, zaibatsu, desert
 
 " File-specific settings
 autocmd BufWritePre * :%s/\s\+$//e
