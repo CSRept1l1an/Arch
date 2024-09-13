@@ -2,6 +2,9 @@ set mouse=a
 
 syntax on
 
+set cursorline
+:highlight Cursorline cterm=bold ctermbg=black 
+
 set nocompatible
 
 set wrap
