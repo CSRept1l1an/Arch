@@ -34,5 +34,5 @@ set termguicolors
 colorscheme slate
 " sorbet, zaibatsu
 
-" File-specific settings test
+" File-specific settings
 autocmd BufWritePre * :%s/\s\+$//e
