@@ -27,12 +27,12 @@ set showcmd
 set noswapfile
 
 if !has('gui_running')
-        set t_Co=256
+	set t_Co=256
 endif
 
 set termguicolors
 colorscheme slate
-" sorbet, zaibatsu, desert
+" sorbet, zaibatsu
 
-" File-specific settings
+" File-specific settings test
 autocmd BufWritePre * :%s/\s\+$//e
